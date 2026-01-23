@@ -21,8 +21,15 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 - Contact form with animations
 - Clean UI & smooth interactions
 
-## 🌐 Live Demo
-👉 https://amanthinks.github.io/PRODIGY_WD_04/
+## 🌐 Live Preview
+👉 Clone the repo: git clone:- 
+
+## 🔹 Author
+Aman Gupta
+<br>
+LinkedIn:-https://www.linkedin.com/in/aman-gupta-9553073a2
+<br>
+GitHub:-https://github.com/AmanThinks
 
 ## 📌 Internship Task
 - Internship: Prodigy InfoTech
