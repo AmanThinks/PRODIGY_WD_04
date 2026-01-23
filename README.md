@@ -22,7 +22,7 @@ A modern, responsive personal portfolio website showcasing my skills, projects, 
 - Clean UI & smooth interactions
 
 ## 🌐 Live Preview
-👉 Clone the repo: git clone:- 
+👉 Clone the repo: git clone:- https://amanthinks.github.io/PRODIGY_WD_04/
 
 ## 🔹 Author
 Aman Gupta
